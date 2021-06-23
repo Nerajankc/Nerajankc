@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nerajankc
-- 👀 I’m interested in Flutter 
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Flutter , Django
+- 🌱 I’m currently learning Flutter , Django
 - 💞️ I’m looking to collaborate on Lanceme Up open Source
 - 📫 How to reach me nirajan@lancemeup.com
